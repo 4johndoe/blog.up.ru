@@ -8,7 +8,7 @@
 <h1>Index PAGE</h1>
 <p>
     <?php
-    print 2*32
+    print 2*32-2
     ?>
 </p>
 </body>
